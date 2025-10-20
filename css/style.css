@@ -1,0 +1,21 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: rgb(149, 248, 194);
+  text-align: center;
+  margin-top: 10rem;
+}
+
+h1 {
+  color: red;
+}
+
+p {
+  margin-top: 2rem;
+  color: rgb(141, 156, 148);
+}
